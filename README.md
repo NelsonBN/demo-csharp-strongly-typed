@@ -186,3 +186,9 @@ catch(Exception exception)
     // ...
 }
 ```
+
+
+
+## LICENSE
+
+[MIT](https://github.com/NelsonBN/demo-csharp-strongly-typed/blob/main/LICENSE)
